@@ -1,0 +1,9 @@
+node_modules/
+.openai/
+.git/
+dist/index.html
+dist/productos/
+dist/tienda/
+dist/sitemap.xml
+dist/robots.txt
+*.log
