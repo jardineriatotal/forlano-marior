@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "f2000a",
+    "name": "Bolsa colectora F-2000 A",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora para uso hospitalario y domiciliario, para utilizar en la cama o camilla.",
+    "image": "/assets/f2000a.webp",
+    "variants": [
+      {
+        "code": "F-2000 A",
+        "label": "F-2000 A",
+        "specs": {
+          "Peso del embalaje": "7 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "f2000a-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2000b",
+    "name": "Bolsa colectora F-2000 B",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora para uso hospitalario y domiciliario, para utilizar en la cama o camilla. Con pico para toma de muestra.",
+    "image": "/assets/f2000b.webp",
+    "variants": [
+      {
+        "code": "F-2000 B",
+        "label": "F-2000 B",
+        "specs": {
+          "Peso del embalaje": "7.300 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 80 unidades"
+        ],
+        "consult": false,
+        "id": "f2000b-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2002",
+    "name": "Bolsa colectora F-2002",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora para uso diurno y ambulatorio, de pierna.",
+    "image": "/assets/f2002.webp",
+    "variants": [
+      {
+        "code": "F-2002",
+        "label": "F-2002",
+        "specs": {
+          "Peso del embalaje": "7.600 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 150 unidades"
+        ],
+        "consult": false,
+        "id": "f2002-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2005",
+    "name": "Bolsa colectora F-2005",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora para uso hospitalario y domiciliario en cama o camilla.",
+    "image": "/assets/f2005.webp",
+    "variants": [
+      {
+        "code": "F-2005",
+        "label": "F-2005",
+        "specs": {
+          "Peso del embalaje": "6.600 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "f2005-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2001",
+    "name": "Bolsa colectora F-2001",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora descartable para uso hospitalario sin desagote.",
+    "image": "/assets/f2001.webp",
+    "variants": [
+      {
+        "code": "F-2001",
+        "label": "F-2001",
+        "specs": {
+          "Peso del embalaje": "9 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 150 unidades"
+        ],
+        "consult": false,
+        "id": "f2001-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2000r",
+    "name": "Bolsa colectora F-2000 R",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora de orina pediátrica dual. Para utilizar en la cama o pierna.",
+    "image": "/assets/f2000r.webp",
+    "variants": [
+      {
+        "code": "F-2000 R",
+        "label": "F-2000 R",
+        "specs": {
+          "Peso del embalaje": "7.500 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "f2000r-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f225",
+    "name": "Bolsa colectora F-225",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora dual para uso diurno y nocturno, hospitalario/domiciliario y ambulatorio.",
+    "image": "/assets/f225.webp",
+    "variants": [
+      {
+        "code": "F-225",
+        "label": "F-225",
+        "specs": {
+          "Peso del embalaje": "6.900 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 60 unidades"
+        ],
+        "consult": false,
+        "id": "f225-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2007",
+    "name": "Bolsa colectora F-2007",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora para uso ambulatorio en la cintura, para utilizar exclusivamente con sonda vesical y nefrostomía.",
+    "image": "/assets/f2007.webp",
+    "variants": [
+      {
+        "code": "F-2007",
+        "label": "F-2007",
+        "specs": {
+          "Peso del embalaje": "6.400 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "f2007-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f2000t",
+    "name": "Bolsa colectora F-2000 T",
+    "category": "Bolsas colectoras de orina",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa colectora de orina exclusiva para instituciones. Capacidad 2 litros.",
+    "image": "/assets/f2000t.webp",
+    "variants": [
+      {
+        "code": "F-2000 T",
+        "label": "F-2000 T",
+        "specs": {
+          "Capacidad": "2 litros",
+          "Peso del embalaje": "6.400 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "f2000t-1"
+      }
+    ],
+    "pm": "PM949-01",
+    "sourcePage": 4,
+    "notes": ""
+  },
+  {
+    "id": "f350",
+    "name": "Delantal para cirugía F-350",
+    "category": "Cirugía y biopsia",
+    "brand": "Marior / HF Forlano",
+    "description": "Delantal para cirugía transuretral endoscópica. Con filtro para toma de muestra sólida.",
+    "image": "/assets/f350.webp",
+    "variants": [
+      {
+        "code": "F-350",
+        "label": "F-350",
+        "specs": {
+          "Peso del embalaje": "7.500 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 25 unidades"
+        ],
+        "consult": false,
+        "id": "f350-1"
+      }
+    ],
+    "pm": "PM949-03",
+    "sourcePage": 5,
+    "notes": ""
+  },
+  {
+    "id": "biopsiapremium",
+    "name": "Bolsa para biopsia Premium",
+    "category": "Cirugía y biopsia",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricada en polietileno. Fleje de aluminio con extremos recubiertos para cierre hermético, con protector adhesivo tarjeta para identificación de la muestra.",
+    "image": "/assets/biopsiapremium.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Premium",
+        "specs": {
+          "Medidas del producto": "390 × 250 mm",
+          "Espesor": "120 micrones",
+          "Capacidad": "4.000 ml",
+          "Peso del embalaje": "18.500 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 50 unidades",
+          "Caja por 500 unidades"
+        ],
+        "consult": false,
+        "id": "biopsiapremium-1"
+      }
+    ],
+    "pm": "PM949-10",
+    "sourcePage": 5,
+    "notes": "El encabezado no identifica un código comercial para cada tamaño; se solicita por nombre y medida."
+  },
+  {
+    "id": "biopsiagrande",
+    "name": "Bolsa para biopsia Grande",
+    "category": "Cirugía y biopsia",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricada en polietileno. Fleje de aluminio para cierre hermético y tarjeta para identificación de la muestra.",
+    "image": "/assets/biopsiagrande.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Grande",
+        "specs": {
+          "Medidas del producto": "390 × 250 mm",
+          "Espesor": "120 micrones",
+          "Capacidad": "4.000 ml",
+          "Peso del embalaje": "17 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 50 unidades",
+          "Caja por 500 unidades"
+        ],
+        "consult": false,
+        "id": "biopsiagrande-1"
+      }
+    ],
+    "pm": "PM949-10",
+    "sourcePage": 5,
+    "notes": "El encabezado no identifica un código comercial para cada tamaño; se solicita por nombre y medida."
+  },
+  {
+    "id": "biopsiamediana",
+    "name": "Bolsa para biopsia Mediana",
+    "category": "Cirugía y biopsia",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricada en polietileno. Fleje de aluminio para cierre hermético y tarjeta para identificación de la muestra.",
+    "image": "/assets/biopsiamediana.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Mediana",
+        "specs": {
+          "Medidas del producto": "330 × 250 mm",
+          "Espesor": "80 micrones",
+          "Capacidad": "3.000 ml",
+          "Peso del embalaje": "15 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 50 unidades",
+          "Caja por 500 unidades"
+        ],
+        "consult": false,
+        "id": "biopsiamediana-1"
+      }
+    ],
+    "pm": "PM949-10",
+    "sourcePage": 5,
+    "notes": "El encabezado no identifica un código comercial para cada tamaño; se solicita por nombre y medida."
+  },
+  {
+    "id": "biopsiachica",
+    "name": "Bolsa para biopsia Chica",
+    "category": "Cirugía y biopsia",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricada en polietileno. Fleje de aluminio para cierre hermético y tarjeta para identificación de la muestra.",
+    "image": "/assets/biopsiachica.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Chica",
+        "specs": {
+          "Medidas del producto": "290 × 150 mm",
+          "Espesor": "60 micrones",
+          "Capacidad": "1.000 ml",
+          "Peso del embalaje": "25 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 50 unidades",
+          "Caja por 1500 unidades"
+        ],
+        "consult": false,
+        "id": "biopsiachica-1"
+      }
+    ],
+    "pm": "PM949-10",
+    "sourcePage": 5,
+    "notes": "El encabezado no identifica un código comercial para cada tamaño; se solicita por nombre y medida."
+  },
+  {
+    "id": "colchon1",
+    "name": "Cubrecolchón de una plaza",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricado con tela de PVC perfumado, impermeable, con bordes elastizados, lavable y reutilizable.",
+    "image": "/assets/colchon1.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "900 × 1800 mm",
+        "specs": {
+          "Medidas del producto": "900 × 1800 mm",
+          "Peso del embalaje": "25 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 40 unidades"
+        ],
+        "consult": false,
+        "id": "colchon1-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "colchon2",
+    "name": "Cubrecolchón de dos plazas",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricado con tela de PVC perfumado, impermeable, con bordes elastizados, lavable y reutilizable.",
+    "image": "/assets/colchon2.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "1400 × 1900 mm",
+        "specs": {
+          "Medidas del producto": "1400 × 1900 mm",
+          "Peso del embalaje": "20 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 25 unidades"
+        ],
+        "consult": false,
+        "id": "colchon2-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "camilla",
+    "name": "Cubrecamilla",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricado con tela de PVC perfumado, impermeable, con bordes elastizados, lavable y reutilizable.",
+    "image": "/assets/camilla.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "600 × 1800 mm",
+        "specs": {
+          "Medidas del producto": "600 × 1800 mm",
+          "Peso del embalaje": "25 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 60 unidades"
+        ],
+        "consult": false,
+        "id": "camilla-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "almohada",
+    "name": "Funda de almohada",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Fabricado con tela de PVC perfumado, impermeable, con bordes elastizados, lavable y reutilizable.",
+    "image": "/assets/almohada.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "420 × 800 mm",
+        "specs": {
+          "Medidas del producto": "420 × 800 mm",
+          "Peso del embalaje": "20 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 150 unidades"
+        ],
+        "consult": false,
+        "id": "almohada-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "cuna",
+    "name": "Cubrecolchón para cuna",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Cubrecolchón para cuna en tres medidas.",
+    "image": "/assets/cuna.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "550 × 850 mm",
+        "specs": {
+          "Medidas del producto": "550 × 850 mm",
+          "Peso del embalaje": "25 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "cuna-1"
+      },
+      {
+        "code": null,
+        "label": "600 × 1200 mm",
+        "specs": {
+          "Medidas del producto": "600 × 1200 mm",
+          "Peso del embalaje": "20 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 80 unidades"
+        ],
+        "consult": false,
+        "id": "cuna-2"
+      },
+      {
+        "code": null,
+        "label": "700 × 1500 mm",
+        "specs": {
+          "Medidas del producto": "700 × 1500 mm",
+          "Peso del embalaje": "20 kg"
+        },
+        "presentations": [
+          "Caja por 60 unidades"
+        ],
+        "consult": false,
+        "id": "cuna-3"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "zalea",
+    "name": "Zalea de PVC",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Paño de PVC perfumado, para ayuda de traslado o asistencia del paciente.",
+    "image": "/assets/zalea1.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "900 × 1500 mm",
+        "specs": {
+          "Medidas del producto": "900 × 1500 mm",
+          "Peso del embalaje": "18 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 80 unidades"
+        ],
+        "consult": false,
+        "id": "zalea-1"
+      },
+      {
+        "code": null,
+        "label": "900 × 900 mm",
+        "specs": {
+          "Medidas del producto": "900 × 900 mm",
+          "Peso del embalaje": "30 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 100 unidades"
+        ],
+        "consult": false,
+        "id": "zalea-2"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "chata",
+    "name": "Cubrechata",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Cobertor descartable para chatas. Uso hospitalario y domiciliario. No estéril.",
+    "image": "/assets/chata.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {
+          "Peso del embalaje": "22 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 50 unidades",
+          "Caja por 1000 unidades"
+        ],
+        "consult": false,
+        "id": "chata-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "inodoro",
+    "name": "Cubreinodoro",
+    "category": "Cuidados y rehabilitación",
+    "brand": "Marior / HF Forlano",
+    "description": "Impermeable, cómodo de usar y fácil de llevar.",
+    "image": "/assets/inodoro.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {
+          "Peso del embalaje": "12 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 3 unidades",
+          "Caja por 300 paquetes"
+        ],
+        "consult": false,
+        "id": "inodoro-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 6,
+    "notes": ""
+  },
+  {
+    "id": "barbijo",
+    "name": "Barbijo con elástico",
+    "category": "Protección descartable",
+    "brand": "Marior / HF Forlano",
+    "description": "Barbijo con elástico.",
+    "image": "/assets/barbijo.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {
+          "Peso del embalaje": "5.500 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 100 unidades",
+          "Caja por 10 paquetes"
+        ],
+        "consult": false,
+        "id": "barbijo-1"
+      }
+    ],
+    "pm": "PM949-08",
+    "sourcePage": 7,
+    "notes": ""
+  },
+  {
+    "id": "cofia",
+    "name": "Cofia plisada",
+    "category": "Protección descartable",
+    "brand": "Marior / HF Forlano",
+    "description": "Cofia plisada.",
+    "image": "/assets/cofia.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {
+          "Peso del embalaje": "10 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Paquete por 100 unidades",
+          "Caja por 10 paquetes"
+        ],
+        "consult": false,
+        "id": "cofia-1"
+      }
+    ],
+    "pm": "PM949-09",
+    "sourcePage": 7,
+    "notes": ""
+  },
+  {
+    "id": "obitoadulto",
+    "name": "Bolsa de óbito adulto",
+    "category": "Bolsas de óbito",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa para cadáver termosellada, con porta tarjeta para identificación y cierre central longitudinal.",
+    "image": "/assets/obitoadulto.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "120 micrones",
+        "specs": {
+          "Medidas del producto": "950 × 2200 mm",
+          "Micronaje": "120",
+          "Peso del embalaje": "12 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 20 unidades"
+        ],
+        "consult": false,
+        "id": "obitoadulto-1"
+      },
+      {
+        "code": null,
+        "label": "200 micrones",
+        "specs": {
+          "Medidas del producto": "950 × 2200 mm",
+          "Micronaje": "200",
+          "Peso del embalaje": "14.300 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 15 unidades"
+        ],
+        "consult": false,
+        "id": "obitoadulto-2"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 7,
+    "notes": ""
+  },
+  {
+    "id": "obitoped",
+    "name": "Bolsa de óbito pediátrica y neonatal",
+    "category": "Bolsas de óbito",
+    "brand": "Marior / HF Forlano",
+    "description": "Bolsa para cadáver termosellada, con porta tarjeta para identificación y cierre central longitudinal.",
+    "image": "/assets/obitopediatrico.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Pediátrica",
+        "specs": {
+          "Medidas del producto": "750 × 1500 mm",
+          "Micronaje": "120"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "obitoped-1"
+      },
+      {
+        "code": null,
+        "label": "Neonatal",
+        "specs": {
+          "Medidas del producto": "450 × 750 mm",
+          "Micronaje": "120"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "obitoped-2"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 7,
+    "notes": ""
+  },
+  {
+    "id": "intubacion",
+    "name": "Sondas para intubación",
+    "category": "Sondas",
+    "brand": "Lymed",
+    "description": "Nasogástrica tipo Levine, con cono conector.",
+    "image": "/assets/intubacion.webp",
+    "variants": [
+      {
+        "code": "LY 9",
+        "label": "LY 9 · 1,23 m",
+        "specs": {
+          "Diámetro externo": "4,0 mm",
+          "Longitud": "1,23 m",
+          "Color / conector": "Rojo",
+          "Peso del embalaje": "7.500 kg"
+        },
+        "presentations": [
+          "Caja por 400 unidades"
+        ],
+        "consult": false,
+        "id": "intubacion-1"
+      },
+      {
+        "code": "LY 10",
+        "label": "LY 10 · 1,23 m",
+        "specs": {
+          "Diámetro externo": "5,3 mm",
+          "Longitud": "1,23 m",
+          "Color / conector": "Verde",
+          "Peso del embalaje": "8.000 kg"
+        },
+        "presentations": [
+          "Caja por 300 unidades"
+        ],
+        "consult": false,
+        "id": "intubacion-2"
+      },
+      {
+        "code": "LY 11",
+        "label": "LY 11 · 1,23 m",
+        "specs": {
+          "Diámetro externo": "6,0 mm",
+          "Longitud": "1,23 m",
+          "Color / conector": "Azul",
+          "Peso del embalaje": "7.700 kg"
+        },
+        "presentations": [
+          "Caja por 250 unidades"
+        ],
+        "consult": false,
+        "id": "intubacion-3"
+      }
+    ],
+    "pm": "PM949-12",
+    "sourcePage": 8,
+    "notes": ""
+  },
+  {
+    "id": "alimentacion",
+    "name": "Sondas para alimentación",
+    "category": "Sondas",
+    "brand": "Lymed",
+    "description": "Nasogástrica o vaciado gástrico, con cono conector y tapa.",
+    "image": "/assets/alimentacion.webp",
+    "variants": [
+      {
+        "code": "LY 30",
+        "label": "LY 30 · 1,10 m",
+        "specs": {
+          "Diámetro externo": "2,8 mm",
+          "Longitud": "1,10 m",
+          "Color / conector": "Naranja",
+          "Peso del embalaje": "7.800 kg"
+        },
+        "presentations": [
+          "Caja por 850 unidades"
+        ],
+        "consult": false,
+        "id": "alimentacion-1"
+      },
+      {
+        "code": "LY 31",
+        "label": "LY 31 · 1,10 m",
+        "specs": {
+          "Diámetro externo": "2,3 mm",
+          "Longitud": "1,10 m",
+          "Color / conector": "Transparente",
+          "Peso del embalaje": "7.800 kg"
+        },
+        "presentations": [
+          "Caja por 850 unidades"
+        ],
+        "consult": false,
+        "id": "alimentacion-2"
+      },
+      {
+        "code": "LY 33",
+        "label": "LY 33 · 0,45 m",
+        "specs": {
+          "Diámetro externo": "2,0 mm",
+          "Longitud": "0,45 m",
+          "Color / conector": "Verde",
+          "Peso del embalaje": "6.000 kg"
+        },
+        "presentations": [
+          "Caja por 1000 unidades"
+        ],
+        "consult": false,
+        "id": "alimentacion-3"
+      },
+      {
+        "code": "LY 35",
+        "label": "LY 35 · 0,45 m",
+        "specs": {
+          "Diámetro externo": "1,8 mm",
+          "Longitud": "0,45 m",
+          "Color / conector": "Azul",
+          "Peso del embalaje": "6.000 kg"
+        },
+        "presentations": [
+          "Caja por 1000 unidades"
+        ],
+        "consult": false,
+        "id": "alimentacion-4"
+      }
+    ],
+    "pm": "PM949-13",
+    "sourcePage": 8,
+    "notes": ""
+  },
+  {
+    "id": "mucus",
+    "name": "Sondas para succión de mucus",
+    "category": "Sondas",
+    "brand": "Lymed",
+    "description": "Con cono conector o regulador de flujo.",
+    "image": "/assets/mucus.webp",
+    "variants": [
+      {
+        "code": "LY 29",
+        "label": "LY 29 · 0,43 m",
+        "specs": {
+          "Diámetro externo": "4,0 mm",
+          "Longitud": "0,43 m",
+          "Color / conector": "Levine rojo",
+          "Peso del embalaje": "7.500 kg"
+        },
+        "presentations": [
+          "Caja por 750 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-1"
+      },
+      {
+        "code": "LY 29 P",
+        "label": "LY 29 P · 0,43 m",
+        "specs": {
+          "Diámetro externo": "4,0 mm",
+          "Longitud": "0,43 m",
+          "Color / conector": "Raco rojo",
+          "Peso del embalaje": "6.900 kg"
+        },
+        "presentations": [
+          "Caja por 650 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-2"
+      },
+      {
+        "code": "LY 30 P",
+        "label": "LY 30 P · 0,50 m",
+        "specs": {
+          "Diámetro externo": "2,8 mm",
+          "Longitud": "0,50 m",
+          "Color / conector": "Raco azul",
+          "Peso del embalaje": "7.800 kg"
+        },
+        "presentations": [
+          "Caja por 800 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-3"
+      },
+      {
+        "code": "LY 31 P",
+        "label": "LY 31 P · 0,50 m",
+        "specs": {
+          "Diámetro externo": "2,3 mm",
+          "Longitud": "0,50 m",
+          "Color / conector": "Raco celeste",
+          "Peso del embalaje": "8.700 kg"
+        },
+        "presentations": [
+          "Caja por 1000 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-4"
+      },
+      {
+        "code": "LY 32",
+        "label": "LY 32 · 0,43 m",
+        "specs": {
+          "Diámetro externo": "5,0 mm",
+          "Longitud": "0,43 m",
+          "Color / conector": "Levine verde",
+          "Peso del embalaje": "6.200 kg"
+        },
+        "presentations": [
+          "Caja por 500 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-5"
+      },
+      {
+        "code": "LY 32 P",
+        "label": "LY 32 P · 0,43 m",
+        "specs": {
+          "Diámetro externo": "5,0 mm",
+          "Longitud": "0,43 m",
+          "Color / conector": "Raco blanco",
+          "Peso del embalaje": "6.700 kg"
+        },
+        "presentations": [
+          "Caja por 500 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-6"
+      },
+      {
+        "code": "LY 33 P",
+        "label": "LY 33 P · 0,50 m",
+        "specs": {
+          "Diámetro externo": "2,0 mm",
+          "Longitud": "0,50 m",
+          "Color / conector": "Raco verde",
+          "Peso del embalaje": "7.800 kg"
+        },
+        "presentations": [
+          "Caja por 1000 unidades"
+        ],
+        "consult": false,
+        "id": "mucus-7"
+      }
+    ],
+    "pm": "PM949-15",
+    "sourcePage": 8,
+    "notes": ""
+  },
+  {
+    "id": "rectal",
+    "name": "Sondas rectales",
+    "category": "Sondas",
+    "brand": "Lymed",
+    "description": "Sondas rectales en cuatro códigos y dos longitudes.",
+    "image": "/assets/rectal.webp",
+    "variants": [
+      {
+        "code": "LY 41",
+        "label": "LY 41 · 0,20 m",
+        "specs": {
+          "Diámetro externo": "5,3 mm",
+          "Longitud": "0,20 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-1"
+      },
+      {
+        "code": "LY 41",
+        "label": "LY 41 · 0,45 m",
+        "specs": {
+          "Diámetro externo": "5,3 mm",
+          "Longitud": "0,45 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-2"
+      },
+      {
+        "code": "LY 42",
+        "label": "LY 42 · 0,20 m",
+        "specs": {
+          "Diámetro externo": "7,3 mm",
+          "Longitud": "0,20 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-3"
+      },
+      {
+        "code": "LY 42",
+        "label": "LY 42 · 0,45 m",
+        "specs": {
+          "Diámetro externo": "7,3 mm",
+          "Longitud": "0,45 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-4"
+      },
+      {
+        "code": "LY 43",
+        "label": "LY 43 · 0,20 m",
+        "specs": {
+          "Diámetro externo": "8,8 mm",
+          "Longitud": "0,20 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-5"
+      },
+      {
+        "code": "LY 43",
+        "label": "LY 43 · 0,45 m",
+        "specs": {
+          "Diámetro externo": "8,8 mm",
+          "Longitud": "0,45 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-6"
+      },
+      {
+        "code": "LY 44",
+        "label": "LY 44 · 0,20 m",
+        "specs": {
+          "Diámetro externo": "13,5 mm",
+          "Longitud": "0,20 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-7"
+      },
+      {
+        "code": "LY 44",
+        "label": "LY 44 · 0,45 m",
+        "specs": {
+          "Diámetro externo": "13,5 mm",
+          "Longitud": "0,45 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "rectal-8"
+      }
+    ],
+    "pm": "PM949-19",
+    "sourcePage": 9,
+    "notes": ""
+  },
+  {
+    "id": "nelaton",
+    "name": "Sondas Nelaton",
+    "category": "Sondas",
+    "brand": "Lymed",
+    "description": "Sondas para drenaje uretral tipo Nelaton.",
+    "image": "/assets/nelaton.webp",
+    "variants": [
+      {
+        "code": "LY 92",
+        "label": "LY 92",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-1"
+      },
+      {
+        "code": "LY 93",
+        "label": "LY 93",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-2"
+      },
+      {
+        "code": "LY 94",
+        "label": "LY 94",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-3"
+      },
+      {
+        "code": "LY 95",
+        "label": "LY 95",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-4"
+      },
+      {
+        "code": "LY 96",
+        "label": "LY 96",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-5"
+      },
+      {
+        "code": "LY 97",
+        "label": "LY 97",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-6"
+      },
+      {
+        "code": "LY 98",
+        "label": "LY 98",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-7"
+      },
+      {
+        "code": "LY 99",
+        "label": "LY 99",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-8"
+      },
+      {
+        "code": "LY 92 F",
+        "label": "LY 92 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-9"
+      },
+      {
+        "code": "LY 93 F",
+        "label": "LY 93 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-10"
+      },
+      {
+        "code": "LY 94 F",
+        "label": "LY 94 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-11"
+      },
+      {
+        "code": "LY 95 F",
+        "label": "LY 95 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-12"
+      },
+      {
+        "code": "LY 96 F",
+        "label": "LY 96 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-13"
+      },
+      {
+        "code": "LY 97 F",
+        "label": "LY 97 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-14"
+      },
+      {
+        "code": "LY 98 F",
+        "label": "LY 98 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-15"
+      },
+      {
+        "code": "LY 99 F",
+        "label": "LY 99 F",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "nelaton-16"
+      }
+    ],
+    "pm": "PM949-17",
+    "sourcePage": 9,
+    "notes": ""
+  },
+  {
+    "id": "oxigeno",
+    "name": "Sondas para inhalación de oxígeno",
+    "category": "Sondas",
+    "brand": "Lymed",
+    "description": "Con cono conector y bigotera.",
+    "image": "/assets/oxigeno.webp",
+    "variants": [
+      {
+        "code": "LY 27",
+        "label": "LY 27",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "oxigeno-1"
+      },
+      {
+        "code": "LY 27 P",
+        "label": "LY 27 P",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "oxigeno-2"
+      },
+      {
+        "code": "LY 27 N",
+        "label": "LY 27 N",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "oxigeno-3"
+      }
+    ],
+    "pm": "PM949-14",
+    "sourcePage": 9,
+    "notes": ""
+  },
+  {
+    "id": "v109",
+    "name": "Equipo de irrigación V-109",
+    "category": "Irrigación y accesorios médicos",
+    "brand": "Kit Medical",
+    "description": "Equipo para irrigación quirúrgica en RTU y artroscopia. Con conector externo o interno. El catálogo menciona 1 vía, 2 vías y 4 vías para la familia; la combinación exacta por modelo se consulta.",
+    "image": "/assets/v109.webp",
+    "variants": [
+      {
+        "code": "V-109",
+        "label": "V-109",
+        "specs": {
+          "Peso del embalaje": "4.400 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 30 unidades"
+        ],
+        "consult": false,
+        "id": "v109-1"
+      }
+    ],
+    "pm": "PM949-04",
+    "sourcePage": 10,
+    "notes": "Indique en observaciones el conector y las vías solicitadas. Su combinación por modelo debe confirmarse."
+  },
+  {
+    "id": "v107",
+    "name": "Equipo de irrigación V-107",
+    "category": "Irrigación y accesorios médicos",
+    "brand": "Kit Medical",
+    "description": "Equipo para irrigación quirúrgica en RTU y artroscopia. Con conector externo o interno. El catálogo menciona 1 vía, 2 vías y 4 vías para la familia; la combinación exacta por modelo se consulta.",
+    "image": "/assets/v107.webp",
+    "variants": [
+      {
+        "code": "V-107",
+        "label": "V-107",
+        "specs": {
+          "Peso del embalaje": "4 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 20 unidades"
+        ],
+        "consult": false,
+        "id": "v107-1"
+      }
+    ],
+    "pm": "PM949-04",
+    "sourcePage": 10,
+    "notes": "Indique en observaciones el conector y las vías solicitadas. Su combinación por modelo debe confirmarse."
+  },
+  {
+    "id": "kft95",
+    "name": "Tubuladura de PVC KFT 95",
+    "category": "Irrigación y accesorios médicos",
+    "brand": "Kit Medical",
+    "description": "Tubos atóxicos. Tubuladura de PVC.",
+    "image": "/assets/kft95.webp",
+    "variants": [
+      {
+        "code": "KFT 95",
+        "label": "KFT 95 · 2 m",
+        "specs": {
+          "Longitud": "2 m",
+          "Peso del embalaje": "8.600 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 40 unidades"
+        ],
+        "consult": false,
+        "id": "kft95-1"
+      },
+      {
+        "code": "KFT 95",
+        "label": "KFT 95 · 3 m",
+        "specs": {
+          "Longitud": "3 m",
+          "Peso del embalaje": "11.700 kg"
+        },
+        "presentations": [
+          "Caja por 40 unidades"
+        ],
+        "consult": false,
+        "id": "kft95-2"
+      },
+      {
+        "code": "KFT 95",
+        "label": "Otras longitudes · consultar",
+        "specs": {
+          "Longitudes mencionadas para la familia": "1 / 1,5 / 2,5 / 3,5 / 4 / 4,5 / 5 m; granel a 25 y 50 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": true,
+        "id": "kft95-3"
+      }
+    ],
+    "pm": "PM949-06",
+    "sourcePage": 10,
+    "notes": "Las longitudes generales no están vinculadas a cada modelo en el PDF. Las opciones fuera de 2 y 3 m requieren confirmación; detalle la longitud en observaciones."
+  },
+  {
+    "id": "kft63",
+    "name": "Tubuladura de PVC KFT 63",
+    "category": "Irrigación y accesorios médicos",
+    "brand": "Kit Medical",
+    "description": "Tubos atóxicos. Tubuladura de PVC.",
+    "image": "/assets/kft63.webp",
+    "variants": [
+      {
+        "code": "KFT 63",
+        "label": "KFT 63 · 2 m",
+        "specs": {
+          "Longitud": "2 m",
+          "Peso del embalaje": "7.500 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 80 unidades"
+        ],
+        "consult": false,
+        "id": "kft63-1"
+      },
+      {
+        "code": "KFT 63",
+        "label": "KFT 63 · 3 m",
+        "specs": {
+          "Longitud": "3 m",
+          "Peso del embalaje": "8.300 kg"
+        },
+        "presentations": [
+          "Caja por 60 unidades"
+        ],
+        "consult": false,
+        "id": "kft63-2"
+      },
+      {
+        "code": "KFT 63",
+        "label": "Otras longitudes · consultar",
+        "specs": {
+          "Longitudes mencionadas para la familia": "1 / 1,5 / 2,5 / 3,5 / 4 / 4,5 / 5 m; granel a 25 y 50 m"
+        },
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": true,
+        "id": "kft63-3"
+      }
+    ],
+    "pm": "PM949-06",
+    "sourcePage": 10,
+    "notes": "Las longitudes generales no están vinculadas a cada modelo en el PDF. Las opciones fuera de 2 y 3 m requieren confirmación; detalle la longitud en observaciones."
+  },
+  {
+    "id": "collarin",
+    "name": "Collarín para traqueostomía",
+    "category": "Irrigación y accesorios médicos",
+    "brand": "Kit Medical",
+    "description": "Diseñado para la fijación segura de tubos de traqueostomía.",
+    "image": "/assets/collarin.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {
+          "Peso del embalaje": "2.100 kg",
+          "Medidas de la caja": "500 × 300 × 300 mm"
+        },
+        "presentations": [
+          "Caja por 300 unidades"
+        ],
+        "consult": false,
+        "id": "collarin-1"
+      }
+    ],
+    "pm": "PM949-05",
+    "sourcePage": 10,
+    "notes": ""
+  },
+  {
+    "id": "campo",
+    "name": "Campo quirúrgico",
+    "category": "Cirugía y biopsia",
+    "brand": null,
+    "description": "Campo quirúrgico incluido en las novedades del catálogo 2026.",
+    "image": "/assets/campo.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "campo-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 11,
+    "notes": "Marca, medidas, presentación y especificaciones a confirmar."
+  },
+  {
+    "id": "latex",
+    "name": "Tubuladuras de látex",
+    "category": "Irrigación y accesorios médicos",
+    "brand": null,
+    "description": "Tubuladuras de látex incluidas en las novedades del catálogo 2026.",
+    "image": "/assets/latex.webp",
+    "variants": [
+      {
+        "code": null,
+        "label": "Única",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "latex-1"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 11,
+    "notes": "Marca, medidas, presentación y especificaciones a confirmar."
+  },
+  {
+    "id": "toracico",
+    "name": "Sondas para drenaje torácico",
+    "category": "Sondas",
+    "brand": null,
+    "description": "Sondas para drenaje torácico incluidas en las novedades del catálogo 2026.",
+    "image": "/assets/toracico.webp",
+    "variants": [
+      {
+        "code": "K-227",
+        "label": "K-227",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "toracico-1"
+      },
+      {
+        "code": "K-225",
+        "label": "K-225",
+        "specs": {},
+        "presentations": [
+          "Presentación a confirmar"
+        ],
+        "consult": false,
+        "id": "toracico-2"
+      }
+    ],
+    "pm": null,
+    "sourcePage": 11,
+    "notes": "Marca, medidas, presentación y especificaciones a confirmar."
+  }
+]
