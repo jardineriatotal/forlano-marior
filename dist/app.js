@@ -1,5 +1,5 @@
-import { CONFIG } from '/config.js';
-import { normalize, positiveInteger, requestedUnit, filterProducts, resolveLine, orderMessage } from '/domain.js';
+import { CONFIG } from './config.js';
+import { normalize, positiveInteger, requestedUnit, filterProducts, resolveLine, orderMessage } from './domain.js';
 
 const $ = (s, root=document) => root.querySelector(s);
 const $$ = (s, root=document) => [...root.querySelectorAll(s)];
